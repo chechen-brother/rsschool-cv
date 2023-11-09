@@ -2,11 +2,14 @@
 ## MY CONTACT INFO ##
 * [GitHub](https://github.com/chechen-brother)
 * [E-mail](shura.kozel@list.ru)
+
 * iii_alex_iii (discord)
+
 ---
 ## Briefly About Myself: ##
 >I'm studying at BSUIR.  I have worked with different programming languages and have some base. And now I started to study Front-end development. My goal is to successfully complete the course from RS school. I do not have more free time, but I have the ambition. Therefore, I will spare no effort to achieve the goal
 ---
+
 ## SKILS ##
 * HTML
 * CSS
